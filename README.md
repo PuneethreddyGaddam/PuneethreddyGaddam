@@ -2,7 +2,7 @@
 
  🪄 About Me:
  ---
-I am a Junior computer engineering student at Northwest Missouri state University, passionate about exploring the realms of coding, machine learning, and building realworld applications.
+I am a Junior computer Science student at Northwest Missouri state University, passionate about exploring the realms of coding, machine learning, and building realworld applications.
 
 ---
 
